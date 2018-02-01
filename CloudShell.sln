@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudShellAPI", "CloudShellAPI\CloudShellAPI.csproj", "{1E8D79B2-7869-4B5B-9AD9-75B1D555951B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudShellAPI", "CloudShellAPI\CloudShellAPI.csproj", "{1E8D79B2-7869-4B5B-9AD9-75B1D555951B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudShellUI", "CloudShellUI\CloudShellUI.csproj", "{A9398EC0-D87D-48CE-B335-7B2E3CD0E5F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudShellProviders", "CloudShellProviders\CloudShellProviders.csproj", "{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudShellProviders", "CloudShellProviders\CloudShellProviders.csproj", "{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudShellUI", "CloudShellUI\CloudShellUI.csproj", "{947312D1-9D5A-40F0-A942-D43CD678BD3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{1E8D79B2-7869-4B5B-9AD9-75B1D555951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8D79B2-7869-4B5B-9AD9-75B1D555951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8D79B2-7869-4B5B-9AD9-75B1D555951B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9398EC0-D87D-48CE-B335-7B2E3CD0E5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9398EC0-D87D-48CE-B335-7B2E3CD0E5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9398EC0-D87D-48CE-B335-7B2E3CD0E5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9398EC0-D87D-48CE-B335-7B2E3CD0E5F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25B03FE-4B10-4E63-AF7C-99DDF0EC69B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947312D1-9D5A-40F0-A942-D43CD678BD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947312D1-9D5A-40F0-A942-D43CD678BD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947312D1-9D5A-40F0-A942-D43CD678BD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947312D1-9D5A-40F0-A942-D43CD678BD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
